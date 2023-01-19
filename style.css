@@ -1,0 +1,22 @@
+body{
+    
+    background-color: #90AA86
+    }
+
+    h1{
+      font-family:'Courier New', Courier, monospace
+    }
+    #descrição{
+      
+      font-family:monospace
+      }
+
+    .habilidades{
+     
+      font-size:  20px; ;
+    }
+
+     h2{
+      
+      font-weight: 500;
+     }
